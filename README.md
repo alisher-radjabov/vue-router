@@ -11,7 +11,7 @@ npm install vue-router --save-dev
 
 ## Example
 
-import router from 'vue-simple-router';
+import router from 'vue-router';
 
 // define a view for homepage:
 // first define a footer element:
